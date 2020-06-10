@@ -9,4 +9,5 @@ Within the javascript folder, the code holds the routine and an example script
 for its application. 
 
 The notebooks can be used to reproduce the results presented within the article
-and provide a python based implementation of the routine.  
+and provide a python based implementation of the routine. Their execution is foreseen
+on [Google Colab](https://colab.research.google.com/).   
